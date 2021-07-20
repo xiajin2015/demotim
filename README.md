@@ -1,2 +1,3 @@
-# demotim
-study composer
+# composer学习
+
+本项目用于学习，随时会删除的。
