@@ -1,0 +1,14 @@
+{
+    "name": "xiajin2015/demotim",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xia jing",
+            "email": "xiajin2004@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
